@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-shadows-whispering-low/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Velvet Shadows Whispering Low](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadows-whispering-low/) |
+| **Get License** | [Secure Licensing Rights for Velvet Shadows Whispering Low](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadows-whispering-low/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows fall across the wooden floor
+> I’ve been waiting right behind the door
+> Your heavy breathing in the fading light
+> We’re letting go of everything tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
